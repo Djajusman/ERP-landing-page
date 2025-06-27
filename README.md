@@ -1,1 +1,5 @@
-# ERP-landing-page
+# ERP landing page
+
+how to run:
+- npm install
+- npm start
