@@ -82,12 +82,6 @@ const Header = () => {
             </LinkScroll>
           </ul>
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">
-            {/* <button
-              onClick={() => setShowLogin(true)}
-              className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-[#31C4F3] transition-all"
-            >
-              Sign In
-            </button> */}
             <ButtonOutline onClick={() => setShowLogin(true)}>Login</ButtonOutline>
           </div>
         </nav>
