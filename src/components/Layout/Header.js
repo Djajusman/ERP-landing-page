@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from "react";
-// Import react scroll
 import { Link as LinkScroll } from "react-scroll";
 import ButtonOutline from "../misc/ButtonOutline.";
-// import { useNavigate } from "react-router-dom";
 import ModalLogin from "../ModalLogin";
+
 const Header = () => {
-  // const navigate = useNavigate()
   const [activeLink, setActiveLink] = useState(null);
   const [scrollActive, setScrollActive] = useState(false);
   const [showLogin, setShowLogin] = useState(false);

@@ -33,7 +33,7 @@ const Hero = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col justify-center space-y-8 lg:pl-8 order-2 lg:order-2 mb-0 md:mb-56">
+          <div className="flex flex-col justify-center space-y-8 lg:pl-8 order-2 lg:order-2 mb-[150px] md:mb-56">
             <div className="space-y-6">
               <strong className="text-xl">
                 Empowering Your Business with Integrated ERP Solutions
